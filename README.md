@@ -1,5 +1,5 @@
 # CProjects
-Some projects I coded in the 3 weeks of studying C.
+Some projects I coded in the first 3 weeks of studying C.
 C is the third language I studied in my first year at Imperial College London.
 Tutorials.zip containts some exercises I wrote using vim while SSH-ing into another computer. 
 Those were helpful at first to understand pointers and Makefiles.
